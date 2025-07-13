@@ -205,8 +205,8 @@ You can also customize chatbot with different configuration
         footer: {
           textColor: '#303235',
           text: 'Powered by',
-          company: 'KamaGroup',
-          companyLink: 'https://kamagroup.org',
+          company: 'DoctorOnCall',
+          companyLink: 'https://doctoroncall.com.my',
         },
       },
     },

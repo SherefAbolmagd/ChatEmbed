@@ -51,14 +51,14 @@ export const Badge = (props: Props) => {
           {props.footer?.text ?? 'Powered by'}
           <a
             ref={liteBadge}
-            href={'https://kamagroup.org'}
+            href={'https://doctoroncall.com.my'}
             target="_blank"
             rel="noopener noreferrer"
             class="lite-badge"
             id="lite-badge"
             style={{ 'font-weight': 'bold', color: props.footer?.textColor ?? props.poweredByTextColor ?? defaultTextColor }}
           >
-            <span>&nbsp;{'KamaGroup'}</span>
+            <span>&nbsp;{'DoctorOnCall'}</span>
           </a>
         </span>
       </Show>
